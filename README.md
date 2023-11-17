@@ -7,7 +7,7 @@ Un-PBO the file, edit config.sqf for any settings and convoys you want
 RePBO and add into your @ExileServer/Addons
 
 
-==========================================
+=================================
 
 Where this convoy script stands out is, this one will limit convoy types, if you have any number of convoy types setup, and turn on the limiter, this will only allow each convoy to spawn once.
 
