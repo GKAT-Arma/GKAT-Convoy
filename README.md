@@ -1,10 +1,12 @@
 # GKAT-Convoy
 
+**//Instructions//**
+
 Click and drag into your @ExileServer/Addons
 
 To edit the convoys/settings, unpbo, change settings in config.sqf, repbo, and reinsert into your @ExileServer/Addons
 
-//Config.sqf Example//
+**//Config.sqf Example//**
 
 /*
 GKAT CONVOY
