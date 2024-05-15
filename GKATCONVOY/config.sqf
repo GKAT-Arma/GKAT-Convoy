@@ -62,7 +62,7 @@ GKC_ConvoySpawn = [
 _GKCMarker = createMarker ["GKATConvoy",[30.5041,30679.8,0]];
 _GKCMarker setMarkerType "loc_LetterG";
 _GKCMarker setMarkerColor "ColorGreen";
-_GKCMarker setMarkerText "Convoys Coded by GKAT Arma Gaming Servers";
+_GKCMarker setMarkerText "Convoys Coded by Vanaheim Arma Gaming Servers";
 				
 /////////////////////////////////////////		
 //Convoy Settings//		
