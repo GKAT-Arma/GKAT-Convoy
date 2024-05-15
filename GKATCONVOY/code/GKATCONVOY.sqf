@@ -65,7 +65,7 @@ if (getMarkerType "GKATConvoy" == "") then
 
 if (_markerremoved) exitWith
 {
-["toastRequest", ["SuccessTitleAndText", ["Replace GKAT Marker or Convoy won't work!", "Visit GKAT Arma Server"]]] call ExileServer_system_network_send_broadcast;
+["toastRequest", ["SuccessTitleAndText", ["Replace Vanaheim Marker or Convoy won't work!", "Visit Vanaheim Arma Server"]]] call ExileServer_system_network_send_broadcast;
 };
 
 _GKCMarkerColor = _GKCConvoyDetails select 0;
